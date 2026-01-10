@@ -357,6 +357,6 @@ jupyter notebook
 
 <br>
 
-⭐ **Star this repository if you find it helpful!** ⭐
+⭐ **This repository is made with love** ⭐
 
 </div>
