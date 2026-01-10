@@ -34,31 +34,30 @@
 ```
 📦 ML/
 ├── 📁 UAS/                                    # 🎯 Final Exam Projects
-│   ├── 📁 TASK 1/                             # Fraud Detection
+│   ├── 📁 TASK 1: FRAUD DETECTION/                             # Fraud Detection
 │   │   ├── 📓 Fraud Detection.ipynb
 │   │   ├── 🧠 fraud_nn_best.pt
 │   │   ├── 🌲 fraud_xgboost_gpu.json
 │   │   └── 📊 data/
-│   ├── 📁 TASK 2/                             # Song Year Prediction
+│   ├── 📁 TASK 2: REGRESSION - SONG YEAR PREDICTION/                             # Song Year Prediction
 │   │   ├── 📓 song year prediction.ipynb
 │   │   ├── 🧠 nn_best.pt
 │   │   ├── 🌲 song_year_xgboost.json
 │   │   └── 📊 data_regression/
-│   └── 📁 TASK 3/                             # Fish Image Classification
+│   └── 📁 TASK 3: IMAGE CLASSIFICATION/                             # Fish Image Classification
 │       ├── 📓 image_classification_fish.ipynb
 │       ├── 🧠 cnn_pytorch_best.pt
 │       ├── 🧠 eff_b0_pytorch_best.pt
 │       └── 🖼️ train/ val/ test/
 │
 ├── 📁 UTS/                                    # 📝 Midterm Exam Projects
-│   ├── 📁 Customer Clustering/
-│   ├── 📁 midterm_folder/
-│   └── 📁 Regresi/
+│   ├── 📁 📓 Customer_Clustering_Analysis.ipynb
+│   ├── 📁 📓 End-To-End Fraud Detection.ipynb
+│   ├── 📁 📓 End-To-End Regression Pipeline.ipynb
+│   └── 📁 📊 submission for fraud detection.csv
 │
-├── 📁 Weekly Assignment/                      # 📚 Chapter Exercises
-│   └── 📓 Chapter 1-18.ipynb
-│
-└── 📁 Hands-on Machine Learning.../           # 📖 Reference Book
+└── 📁 Weekly Assignments/                      # 📚 Chapter Exercises
+    └── 📓 Chapter 1-18.ipynb
 ```
 
 ---
