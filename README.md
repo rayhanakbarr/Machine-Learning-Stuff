@@ -51,10 +51,10 @@
 │       └── 🖼️ train/ val/ test/
 │
 ├── 📁 UTS/                                                 
-│   ├── 📁 📓 Customer_Clustering_Analysis.ipynb
-│   ├── 📁 📓 End-To-End Fraud Detection.ipynb
-│   ├── 📁 📓 End-To-End Regression Pipeline.ipynb
-│   └── 📁 📊 submission for fraud detection.csv
+│   ├── 📓 Customer_Clustering_Analysis.ipynb
+│   ├── 📓 End-To-End Fraud Detection.ipynb
+│   ├── 📓 End-To-End Regression Pipeline.ipynb
+│   └── 📊 submission for fraud detection.csv
 │
 └── 📁 Weekly Assignments/                                    
     └── 📓 Chapter 1-18.ipynb
@@ -66,9 +66,7 @@
 
 <table>
 <tr>
-<td>
-
-<img width="400" height="1" src="https://user-images.githubusercontent.com/0/0.png">
+<td width="33%">
 
 ### 🔍 Task 1: Fraud Detection
 **Classification** | GPU Accelerated
@@ -77,9 +75,7 @@
 <img src="https://img.shields.io/badge/GPU-CUDA-green?style=flat-square">
 
 </td>
-<td>
-
-<img width="400" height="1" src="https://user-images.githubusercontent.com/0/0.png">
+<td width="33%">
 
 ### 🎵 Task 2: Song Year Prediction
 **Regression** | GPU Accelerated
@@ -88,9 +84,7 @@
 <img src="https://img.shields.io/badge/GPU-CUDA-green?style=flat-square">
 
 </td>
-<td>
-
-<img width="400" height="1" src="https://user-images.githubusercontent.com/0/0.png">
+<td width="33%">
 
 ### 🐟 Task 3: Fish Classification
 **Image Classification** | Deep Learning
