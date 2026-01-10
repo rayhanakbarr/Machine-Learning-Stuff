@@ -33,30 +33,30 @@
 
 ```
 📦 ML/
-├── 📁 UAS/                                    # 🎯 Final Exam Projects
-│   ├── 📁 TASK 1: FRAUD DETECTION/                             # Fraud Detection
+├── 📁 UAS/                                                 
+│   ├── 📁 TASK 1: FRAUD DETECTION/                         
 │   │   ├── 📓 Fraud Detection.ipynb
 │   │   ├── 🧠 fraud_nn_best.pt
 │   │   ├── 🌲 fraud_xgboost_gpu.json
 │   │   └── 📊 data/
-│   ├── 📁 TASK 2: REGRESSION - SONG YEAR PREDICTION/                             # Song Year Prediction
+│   ├── 📁 TASK 2: REGRESSION - SONG YEAR PREDICTION/       
 │   │   ├── 📓 song year prediction.ipynb
 │   │   ├── 🧠 nn_best.pt
 │   │   ├── 🌲 song_year_xgboost.json
 │   │   └── 📊 data_regression/
-│   └── 📁 TASK 3: IMAGE CLASSIFICATION/                             # Fish Image Classification
+│   └── 📁 TASK 3: IMAGE CLASSIFICATION/                    
 │       ├── 📓 image_classification_fish.ipynb
 │       ├── 🧠 cnn_pytorch_best.pt
 │       ├── 🧠 eff_b0_pytorch_best.pt
 │       └── 🖼️ train/ val/ test/
 │
-├── 📁 UTS/                                    # 📝 Midterm Exam Projects
+├── 📁 UTS/                                                 
 │   ├── 📁 📓 Customer_Clustering_Analysis.ipynb
 │   ├── 📁 📓 End-To-End Fraud Detection.ipynb
 │   ├── 📁 📓 End-To-End Regression Pipeline.ipynb
 │   └── 📁 📊 submission for fraud detection.csv
 │
-└── 📁 Weekly Assignments/                      # 📚 Chapter Exercises
+└── 📁 Weekly Assignments/                                    
     └── 📓 Chapter 1-18.ipynb
 ```
 
@@ -75,7 +75,7 @@
 <img src="https://img.shields.io/badge/GPU-CUDA-green?style=flat-square">
 
 </td>
-<td width="33%">
+<td width="40%">
 
 ### 🎵 Task 2: Song Year Prediction
 **Regression** | GPU Accelerated
