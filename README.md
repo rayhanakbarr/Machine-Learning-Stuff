@@ -66,7 +66,7 @@
 
 <table>
 <tr>
-<td width="33%">
+<td width="40%">
 
 ### 🔍 Task 1: Fraud Detection
 **Classification** | GPU Accelerated
@@ -84,7 +84,7 @@
 <img src="https://img.shields.io/badge/GPU-CUDA-green?style=flat-square">
 
 </td>
-<td width="33%">
+<td width="40%">
 
 ### 🐟 Task 3: Fish Classification
 **Image Classification** | Deep Learning
