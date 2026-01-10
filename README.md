@@ -109,5 +109,5 @@ To replicate the analysis or run the notebooks locally:
 ---
 
 <p align="center">
-  <i>Created with ❤️ by [Rayhan] for Machine Learning Stuff.</i>
+  <i>Created with ❤️ by Rayhan for Machine Learning Stuff.</i>
 </p>
