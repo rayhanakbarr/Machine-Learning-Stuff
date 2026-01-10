@@ -51,10 +51,10 @@
 │       └── 🖼️ train/ val/ test/
 │
 ├── 📁 UTS/                                                 
-│   ├── 📁 📓 Customer_Clustering_Analysis.ipynb
-│   ├── 📁 📓 End-To-End Fraud Detection.ipynb
-│   ├── 📁 📓 End-To-End Regression Pipeline.ipynb
-│   └── 📁 📊 submission for fraud detection.csv
+│   ├── 📓 Customer_Clustering_Analysis.ipynb
+│   ├── 📓 End-To-End Fraud Detection.ipynb
+│   ├── 📓 End-To-End Regression Pipeline.ipynb
+│   └── 📊 submission for fraud detection.csv
 │
 └── 📁 Weekly Assignments/                                    
     └── 📓 Chapter 1-18.ipynb
